@@ -42,6 +42,8 @@ Hata Yönetimi: Ödeme işlemi sırasında oluşabilecek hatalar yakalanır ve k
 Sonuç
 PHP ile tasarlanan bu basit ödeme sistemi, çevrimiçi ticaret siteleri için temel bir ödeme altyapısı sağlar. Stripe entegrasyonu sayesinde güvenli ve hızlı ödeme işlemleri gerçekleştirilir. Bu sistem, kullanıcıların kredi kartı bilgilerini güvenle girebileceği ve işlemlerini hızlı bir şekilde tamamlayabileceği bir çözüm sunar. Çevrimiçi ticaret yapan işletmeler için temel bir ihtiyaç olan ödeme sistemleri, bu proje ile kolaylıkla hayata geçirilebilir ve kullanıcı memnuniyeti artırılabilir.
 
+![Ekran görüntüsü 2024-07-19 112226](https://github.com/user-attachments/assets/218b0e0e-368b-4fee-949d-7b184c1f0ada)
+
 
 ![Ekran görüntüsü 2024-07-19 093642](https://github.com/user-attachments/assets/6c00dd78-1d5a-499b-9abd-8c9eb29c13f3)
 
