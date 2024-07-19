@@ -11,6 +11,7 @@ Giriş
 Günümüzde dijital ticaretin hızla artmasıyla birlikte, çevrimiçi ödeme sistemlerine duyulan ihtiyaç da aynı oranda yükselmiştir. Çevrimiçi ödeme sistemleri, kullanıcıların internet üzerinden güvenli ve hızlı bir şekilde alışveriş yapmalarını sağlar. Bu makalede, PHP kullanılarak tasarlanmış basit bir ödeme sistemi ele alınacaktır. Bu sistem, kullanıcıların kredi kartı bilgilerini girerek ödeme yapmalarına olanak tanıyan temel bir yapıya sahiptir ve Stripe ödeme sağlayıcısı entegrasyonu ile çalışmaktadır.
 
 Projenin Amacı
+
 Bu projenin temel amacı, PHP ile çevrimiçi bir ödeme sistemi oluşturmak ve Stripe API'si aracılığıyla ödeme işlemlerini güvenli bir şekilde gerçekleştirmektir. Bu sistem, kullanıcı dostu bir arayüz sunarak ödeme işlemlerinin kolay ve hızlı bir şekilde yapılmasını sağlar. Ayrıca, ödeme sürecinin güvenliğini artırmak için Stripe'in sağladığı güvenlik önlemlerinden faydalanmaktadır.
 
 Projenin Kapsamı
