@@ -1,3 +1,7 @@
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    </a> 
+    <br>
 <h1>BTK Akademi PHP dersleri egzersizleri</h1>
 
 ![Ekran görüntüsü 2024-03-19 202016](https://github.com/arazumut/PHPdersleri/assets/150933483/4cdb59f3-7286-48a6-b075-0b0b2ce21330)
