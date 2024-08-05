@@ -9,7 +9,7 @@
 ![Ekran görüntüsü 2024-03-19 201940](https://github.com/arazumut/PHPdersleri/assets/150933483/fbdc2bdf-60c8-4f81-a191-c81dda99e398)
 ![Ekran görüntüsü 2024-03-19 201924](https://github.com/arazumut/PHPdersleri/assets/150933483/df1b0d3d-808b-4c7d-9b43-b3ea0d6def73)
 
-<h1>Onliine Payment System</h1>
+<h1>Online Payment System</h1>
 
 Giriş
 Günümüzde dijital ticaretin hızla artmasıyla birlikte, çevrimiçi ödeme sistemlerine duyulan ihtiyaç da aynı oranda yükselmiştir. Çevrimiçi ödeme sistemleri, kullanıcıların internet üzerinden güvenli ve hızlı bir şekilde alışveriş yapmalarını sağlar. Bu makalede, PHP kullanılarak tasarlanmış basit bir ödeme sistemi ele alınacaktır. Bu sistem, kullanıcıların kredi kartı bilgilerini girerek ödeme yapmalarına olanak tanıyan temel bir yapıya sahiptir ve Stripe ödeme sağlayıcısı entegrasyonu ile çalışmaktadır.
