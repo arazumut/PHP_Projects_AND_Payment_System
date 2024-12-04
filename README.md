@@ -14,6 +14,7 @@
     </a> 
 <h1>Online Payment System</h1>
 
+
 Giriş
 Günümüzde dijital ticaretin hızla artmasıyla birlikte, çevrimiçi ödeme sistemlerine duyulan ihtiyaç da aynı oranda yükselmiştir. Çevrimiçi ödeme sistemleri, kullanıcıların internet üzerinden güvenli ve hızlı bir şekilde alışveriş yapmalarını sağlar. Bu makalede, PHP kullanılarak tasarlanmış basit bir ödeme sistemi ele alınacaktır. Bu sistem, kullanıcıların kredi kartı bilgilerini girerek ödeme yapmalarına olanak tanıyan temel bir yapıya sahiptir ve Stripe ödeme sağlayıcısı entegrasyonu ile çalışmaktadır.
 
